@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>
+  I really like music :headphones:
+</h1>
 
-<!--
-**gamontal/gamontal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://gamontal.vercel.app/api/now-playing?open">
+    <img src="https://gamontal.vercel.app/api/now-playing">
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://gamontal.vercel.app/api/top-played">
+</p>
+ 
+<p align="center">
+  <i>Inspired by <a href="https://github.com/natemoo-re">natemoo-re</a> and <a href="https://github.com/andyruwruw">andyruwruw</a></i>
+</p>

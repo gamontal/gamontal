@@ -1,0 +1,31 @@
+{
+  "name": "gamontal-profile-page",
+  "version": "1.1.1",
+  "description": "Github profile README.md",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev",
+    "token": "tsc util/get-refresh-token.ts & node util/get-refresh-token.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamontal/gamontal.git"
+  },
+  "author": "Andrew Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamontal/gamontal/issues"
+  },
+  "homepage": "https://github.com/gamontal/gamontal#readme",
+  "dependencies": {
+    "@vercel/node": "^1.9.1",
+    "axios": "^0.21.1",
+    "chess-web-api": "^1.0.10",
+    "isomorphic-unfetch": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "querystring": "^0.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.9.7"
+  }
+}
